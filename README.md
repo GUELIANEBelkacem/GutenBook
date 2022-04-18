@@ -1,6 +1,6 @@
 # GutenBook
 
-Link to [Frontend](https://github.com/GUELIANEBelkacem/GutenBookFront)
+Link to the [Frontend](https://github.com/GUELIANEBelkacem/GutenBookFront)
 
 GuetenBook is a SpringBoot/JAVA backend of a search engine App designed for the [Gutenburg project's](https://www.gutenberg.org/) library.
 
