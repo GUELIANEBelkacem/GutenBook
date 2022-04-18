@@ -19,7 +19,7 @@ All the functions necessary for this are found in DataBuilder/DataBuilder.java
 			//build the Jaccard Matrix and Graph (3hours)
 			Jaccard.build(0.6);
 ```
-Comment the parts you don't need.
+Comment the parts you don't need, then run the main in DataBuilder/DataBuilder.java.
 
 After that, run the server and enjoy!
 
