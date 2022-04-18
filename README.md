@@ -25,13 +25,16 @@ After that, run the server and enjoy!
 
 Here are the available API calls:
 
-Simple Search
+Simple Search:
+
 http://localhost:8080/simplesearch/?word=inferno
 
-Multiple Search
+Multiple Search:
+
 http://localhost:8080/multiplesearch/?words=inferno angels dante
 
-RegEx Search
+RegEx Search:
+
 http://localhost:8080/regexsearch/?regex=inf(er*)no
 
 
