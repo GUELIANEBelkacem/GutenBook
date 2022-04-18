@@ -8,9 +8,9 @@ To run, you first need to download the data from the Gutendex API, and construct
 
 All the functions necessary for this are found in DataBuilder/DataBuilder.java
 
-'''
+```
       
-      //download the library (20min)
+      			//download the library (20min)
 			Downloader.download(2000);
 			
 			//index the data (30min)
@@ -18,7 +18,7 @@ All the functions necessary for this are found in DataBuilder/DataBuilder.java
 			
 			//build the Jaccard Matrix and Graph (3hours)
 			Jaccard.build(0.6);
-'''
+```
 Comment the parts you don't need.
 
 After that, run the server and enjoy!
