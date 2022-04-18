@@ -2,7 +2,7 @@
 
 Link to the [Frontend](https://github.com/GUELIANEBelkacem/GutenBookFront)
 
-GuetenBook is a SpringBoot/JAVA backend of a search engine App designed for the [Gutenburg project's](https://www.gutenberg.org/) library.
+GuetenBook is a SpringBoot/JAVA backend of a search engine App designed for the [Gutenbrrg project's](https://www.gutenberg.org/) library.
 
 To run, you first need to download the data from the Gutendex API, and construct the database by indexing the data.
 
